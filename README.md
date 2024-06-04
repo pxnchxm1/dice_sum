@@ -10,4 +10,6 @@ Currently, two official plugins are available:
 
 UI : 
                             https://github.com/pxnchxm1/dice_sum/assets/117977315/b5604d8f-84fc-4e28-a5b4-aead8df9e775
+                            ![image](https://github.com/pxnchxm1/dice_sum/assets/117977315/b4c3bb5b-70aa-4b7d-8b96-538df3b28fff)
+
 
