@@ -8,5 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 "# dice_sum" 
 
-screenshot UI
-![image](https://github.com/pxnchxm1/dice_sum/assets/117977315/a33d8a96-bbfe-4ff8-9cf4-6e8ab320bf35)
+UI : 
+                            https://github.com/pxnchxm1/dice_sum/assets/117977315/b5604d8f-84fc-4e28-a5b4-aead8df9e775
+
