@@ -1,0 +1,23 @@
+.Die{
+    color:blueviolet;
+    font-size: 2.5em;
+    height: 2.25em;
+    width:3em;
+    display: inline-block;
+    padding-top: 0.75em;
+    margin: 1rem;
+    border: 2px solid blueviolet ;
+    border-radius: 0.5rem;
+    justify-items: center;
+    align-items: center;
+
+}
+.Die:hover{
+    background-color: rgb(49, 0, 95);
+    border: 3px solid rgb(18, 17, 20) ;
+    color:black ;
+    font-size: 2.7em;
+    
+    
+}
+
